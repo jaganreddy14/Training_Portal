@@ -1,0 +1,141 @@
+{
+  "cources": [
+    {
+      "id": 1,
+      "title": "core Java",
+      "trainer": "Jack",
+      "discription": "You will Learn java from beginner level",
+      "duration": "8 Weeks",
+      "price": "$10"
+    },
+    {
+      "id": 2,
+      "title": "HTML",
+      "trainer": "Laura",
+      "discription": "You will Learn HTML from beginner level",
+      "duration": "4 Weeks",
+      "price": "$5"
+    },
+    {
+      "id": 3,
+      "title": "CSS",
+      "trainer": "Jackson",
+      "discription": "You will Learn Css from beginner level",
+      "duration": "4 Weeks",
+      "price": "$5"
+    },
+    {
+      "id": 4,
+      "title": "BOOTSTRAP",
+      "trainer": "Micheal",
+      "discription": "You will Learn Bootstrap from beginner level",
+      "duration": "6 Weeks",
+      "price": "$15"
+    },
+    {
+      "id": 5,
+      "title": "Angular",
+      "trainer": "Daniel",
+      "discription": "You will Learn Angular from beginner level",
+      "duration": "8 Weeks",
+      "price": "$20"
+    },
+    {
+      "id": 6,
+      "title": "REACT JS",
+      "trainer": "Jack",
+      "discription": "You will Learn React js from beginner level",
+      "duration": "8 Weeks",
+      "price": "$25"
+    },
+    {
+      "id": 7,
+      "title": "SQL",
+      "trainer": "Shan",
+      "discription": "You will Learn Sql from beginner level",
+      "duration": "3 Weeks",
+      "price": "$8"
+    },
+    {
+      "id": 8,
+      "title": "PYTHON",
+      "trainer": "BEN",
+      "discription": "You will Learn Python from beginner level",
+      "duration": "7 Weeks",
+      "price": "$25"
+    },
+    {
+      "id": 9,
+      "title": "SQL",
+      "trainer": "Shan",
+      "discription": "You will Learn Sql from beginner level",
+      "duration": "3 Weeks",
+      "price": "$8"
+    },
+    {
+      "id": 10,
+      "title": "GIT HUB",
+      "trainer": "BEN",
+      "discription": "You will Learn Github from beginner level",
+      "duration": "2 Weeks",
+      "price": "$8"
+    },
+    {
+      "id": 11,
+      "title": "BIT BUCKET",
+      "trainer": "Shan",
+      "discription": "You will Learn Bitbucket from beginner level",
+      "duration": "2 Weeks",
+      "price": "$8"
+    },
+    {
+      "id": 12,
+      "title": "BOOTSTRAP",
+      "trainer": "Micheal",
+      "discription": "You will Learn Bootstrap from beginner level",
+      "duration": "6 Weeks",
+      "price": "$15"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jagan Reddy",
+      "email": "jaganReddy809@gmail.com"
+    }
+  ],
+  "Trainings": [
+    {
+      "id": 1,
+      "title": "core Java",
+      "trainer": "Jack",
+      "discription": "You will Learn java from beginner level",
+      "duration": "8 Weeks",
+      "price": "$10"
+    },
+    {
+      "id": 5,
+      "title": "Angular",
+      "trainer": "Daniel",
+      "discription": "You will Learn Angular from beginner level",
+      "duration": "8 Weeks",
+      "price": "$20"
+    },
+    {
+      "id": 6,
+      "title": "REACT JS",
+      "trainer": "Jack",
+      "discription": "You will Learn React js from beginner level",
+      "duration": "8 Weeks",
+      "price": "$25"
+    },
+    {
+      "id": 7,
+      "title": "SQL",
+      "trainer": "Shan",
+      "discription": "You will Learn Sql from beginner level",
+      "duration": "3 Weeks",
+      "price": "$8"
+    }
+  ]
+}
